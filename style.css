@@ -1,0 +1,29 @@
+#part1 {
+    width: 700px;
+    height: 100px;
+    border: 2px solid blue;
+    display: flex;
+    margin-bottom: 10px;
+}
+#part2 {
+    width: 700px;
+    height: 100px;
+    border: 2px solid blue;
+    background-color: rgb(206, 61, 61);
+    display: flex;
+}
+.kocka {
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    background-color: rgb(75, 75, 243);
+    margin: auto
+}
+.kocka2 {
+    width: 50px;
+    height: 50px;
+    border: 1px;
+    background-color: rgb(78, 24, 104);
+    margin: auto
+}
+
